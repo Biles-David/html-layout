@@ -1,0 +1,38 @@
+nav {
+    height: 130px;
+    background: #cfcfcf;
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    background: #8585ff;
+    display: inline-block;
+    margin: 10px;
+}
+
+p {
+    margin: 60px;
+    font-size: 1.25em;
+    font-family: 'Questrial', sans-serif;
+}
+
+main {
+    height: 130px;
+}
+
+.blue {
+    background: #8585ff;
+}
+
+.teal {
+    background: #00c0c0;
+}
+
+.grass {
+    background: #82da82;
+}
+
+.yellow {
+    background: yellow;
+}

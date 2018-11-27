@@ -1,0 +1,23 @@
+nav {
+    background: #474747;
+    height: 150px;
+    width: 100%;
+}
+
+body {
+    background: #c9c9c9;
+    height: 100%;
+}
+
+main {
+    background: #e8e8e8;
+    padding: 300px;
+    margin: 0 7em;
+    height: 100%;
+}
+
+footer {
+    background: #1f1f1f;
+    height: 100px;
+    margin: 0 7em;
+}
